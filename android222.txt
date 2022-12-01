@@ -1,4 +1,4 @@
 {
   "version" : "1.0.4",
-  "noi dung" : "Xin chào NTz\n Không chơi game quá 180 phút bạn nha."
+  "noi dung" : "Xin chào NTz\n Không chơi game quá 180 phút bạn nha.\nSỰ KIỆN WORLD CUP 2022\nThời gian: 10h00 16/11 đến 23h59 18/12/2022\nKết thúc đua top lúc 0h 19/12\nPhần quà đua top sẽ được trao từ 19/12 đến 25/12"
 }
