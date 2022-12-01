@@ -1,0 +1,4 @@
+{
+  "version" : "1.0.4",
+  "noi dung" : "Xin chào NTz\n Không chơi game quá 180 phút bạn nha."
+}
