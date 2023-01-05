@@ -1,4 +1,4 @@
 {
   "version" : "1.0.4_BETA",
-  "noi dung" : "Xin chào. Mình là NTz\n Mod có keylog đừng dùng,\ncứng đầu mất acc không giải quyết. có chơi có chịu.\nKhông chơi game quá 180 phút bạn nha.\n ----------------------------- \n"
+  "noi dung" : "Xin chào. Mình là NTz\n Sự Kiện Noel - Ngọc Rồng Online\nThời gian: 24/12/2022 đến 24/01/2023\n\nKhông chơi game quá 180 phút bạn nha.\n ----------------------------- \n"
 }
